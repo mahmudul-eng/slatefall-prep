@@ -1,5 +1,7 @@
 .env
 kb.sqlite
+kb.sqlite-shm
+kb.sqlite-wal
 __pycache__/
 *.pyc
 data/
