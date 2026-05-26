@@ -1,0 +1,870 @@
+{
+  "generated_at": "2026-05-26T16:04:10.660824",
+  "sessions": [
+    {
+      "id": 7,
+      "created_at": "2026-05-26T16:04:10.319722",
+      "section_ids": [
+        5,
+        8
+      ],
+      "is_adaptive": 1,
+      "score": "6/10",
+      "score_pct": 60.0,
+      "questions": [
+        {
+          "question_id": 61,
+          "section_id": 5,
+          "topic_tag": "Tactical Heuristics",
+          "question_text": "What is the primary purpose of the Three-Two-One Rule in the asset's tactical heuristics?",
+          "options": {
+            "A": "To maximize the number of activations per minute",
+            "B": "To minimize the risk of operational anomalies",
+            "C": "To ensure the asset's safety during combat operations",
+            "D": "To optimize the use of suspension as a decisive resource"
+          },
+          "correct_option": "D",
+          "user_answer": "D",
+          "is_correct": true,
+          "explanation": "The Three-Two-One Rule is a tactical heuristic that aims to optimize the use of suspension as a decisive resource, by limiting the number of activations and maintaining active sightlines and pre-anchored extraction routes."
+        },
+        {
+          "question_id": 62,
+          "section_id": 5,
+          "topic_tag": "Doctrine Sequential",
+          "question_text": "Which of the following is NOT a core principle of the Doctrine of Sequential Suspension?",
+          "options": {
+            "A": "Suspension is a decisive resource, not a continuous capability",
+            "B": "Sequence determines lethality",
+            "C": "Cooldown discipline is non-negotiable",
+            "D": "The asset should always engage the target with maximum force"
+          },
+          "correct_option": "D",
+          "user_answer": "A",
+          "is_correct": false,
+          "explanation": "The Doctrine of Sequential Suspension emphasizes the importance of suspension as a decisive resource, sequence determining lethality, and cooldown discipline, but it does not advocate for always engaging the target with maximum force."
+        },
+        {
+          "question_id": 63,
+          "section_id": 5,
+          "topic_tag": "Drop Tune Maneuver",
+          "question_text": "What is the minimum time required for the contact-exclusion field to clear after releasing an object, according to the Drop-Tune Maneuver?",
+          "options": {
+            "A": "0.1 seconds",
+            "B": "0.3 seconds",
+            "C": "0.5 seconds",
+            "D": "1 second"
+          },
+          "correct_option": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "explanation": "The Drop-Tune Maneuver specifies that the contact-exclusion field clears after approximately 0.3 seconds, allowing the asset to suspend the released object before it strikes anything."
+        },
+        {
+          "question_id": 64,
+          "section_id": 5,
+          "topic_tag": "Suspended Field",
+          "question_text": "What is the maximum number of low-mass objects that can be held simultaneously using the Suspended Field Technique?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "correct_option": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "explanation": "The Suspended Field Technique allows the asset to hold a maximum of 4 low-mass objects simultaneously, creating a transient kinetic-cover zone."
+        },
+        {
+          "question_id": 65,
+          "section_id": 5,
+          "topic_tag": "Tactical Heuristics",
+          "question_text": "Which of the following is a consequence of violating the Three-Two-One Rule?",
+          "options": {
+            "A": "The asset is required to restart the engagement",
+            "B": "The cell handler will automatically call off the operation",
+            "C": "The asset will be subject to additional training",
+            "D": "The asset will receive a warning from the PAMC"
+          },
+          "correct_option": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "explanation": "Violations of the Three-Two-One Rule trigger an automatic call-off by the cell handler, ensuring the asset's safety and the success of the operation."
+        },
+        {
+          "question_id": 66,
+          "section_id": 8,
+          "topic_tag": "Base Details",
+          "question_text": "What is the total floor area of the primary operational base, Cuartel Valpara\u00edso?",
+          "options": {
+            "A": "3,820 m\u00b2",
+            "B": "4,820 m\u00b2",
+            "C": "5,820 m\u00b2",
+            "D": "6,820 m\u00b2"
+          },
+          "correct_option": "B",
+          "user_answer": "A",
+          "is_correct": false,
+          "explanation": "The total floor area of Cuartel Valpara\u00edso is given as 4,820 m\u00b2 in the section text."
+        },
+        {
+          "question_id": 67,
+          "section_id": 8,
+          "topic_tag": "Operational Territory",
+          "question_text": "Which of the following countries is NOT fully included in the asset's authorized operational territory?",
+          "options": {
+            "A": "Chile",
+            "B": "Bolivia",
+            "C": "Peru",
+            "D": "Ecuador"
+          },
+          "correct_option": "D",
+          "user_answer": "D",
+          "is_correct": true,
+          "explanation": "Ecuador is only partially included in the asset's operational territory, with limited access to provinces of Azuay, Ca\u00f1ar, and Loja."
+        },
+        {
+          "question_id": 68,
+          "section_id": 8,
+          "topic_tag": "Operational Safehouses",
+          "question_text": "What is the purpose of the standardized provisioning standard for each safehouse?",
+          "options": {
+            "A": "To provide luxury accommodations for the asset",
+            "B": "To maintain a standardized level of supplies and equipment for operational purposes",
+            "C": "To provide a means of communication with other safehouses",
+            "D": "To serve as a backup cache for the micro-cache network"
+          },
+          "correct_option": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "explanation": "The standardized provisioning standard is intended to ensure that each safehouse has a consistent level of supplies and equipment to support the asset's operations."
+        },
+        {
+          "question_id": 69,
+          "section_id": 8,
+          "topic_tag": "Restricted Zones",
+          "question_text": "What is the reason for the restriction on the Cerro Castillo exclusion ring zone?",
+          "options": {
+            "A": "Jurisdictional dispute",
+            "B": "Strategic investigation",
+            "C": "Psychological recommendation by CBMP",
+            "D": "Environmental concerns"
+          },
+          "correct_option": "C",
+          "user_answer": "B",
+          "is_correct": false,
+          "explanation": "The Cerro Castillo exclusion ring zone is restricted due to a psychological recommendation by CBMP, following the 2018 incident."
+        },
+        {
+          "question_id": 70,
+          "section_id": 8,
+          "topic_tag": "Operational Safehouses",
+          "question_text": "Which of the following safehouses is located in a port district and has a maritime cover?",
+          "options": {
+            "A": "S-1, Punta Arenas",
+            "B": "S-2, Mendoza",
+            "C": "S-3, Iquique",
+            "D": "S-4, Antofagasta"
+          },
+          "correct_option": "C",
+          "user_answer": "A",
+          "is_correct": false,
+          "explanation": "S-3, located in Iquique, is described as having a maritime cover and being situated in a port district."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "created_at": "2026-05-26T16:01:58.738364",
+      "section_ids": [
+        5,
+        8
+      ],
+      "is_adaptive": 1,
+      "score": "6/10",
+      "score_pct": 60.0,
+      "questions": [
+        {
+          "question_id": 51,
+          "section_id": 5,
+          "topic_tag": "Doctrine Sequential",
+          "question_text": "Which of the following is NOT a core principle of the Doctrine of Sequential Suspension?",
+          "options": {
+            "A": "Sequence determines lethality",
+            "B": "Cooldown discipline is non-negotiable",
+            "C": "Protect the 1.2-second targeting window above all",
+            "D": "Maintain five active sightlines at any moment"
+          },
+          "correct_option": "D",
+          "user_answer": "D",
+          "is_correct": true,
+          "explanation": "The Doctrine of Sequential Suspension has six core principles, and maintaining five active sightlines is not one of them. The correct principles are listed in Section 5.1."
+        },
+        {
+          "question_id": 52,
+          "section_id": 5,
+          "topic_tag": "Tactical Heuristics",
+          "question_text": "What is the primary purpose of the Three-Two-One Rule in the asset's tactical heuristics?",
+          "options": {
+            "A": "To maximize the number of active sightlines",
+            "B": "To minimize the number of activations per 60-second window",
+            "C": "To ensure cooldown discipline and protect the targeting window",
+            "D": "To maintain three active sightlines, two pre-anchored extraction routes, and one reserve"
+          },
+          "correct_option": "C",
+          "user_answer": "A",
+          "is_correct": false,
+          "explanation": "The Three-Two-One Rule is a tactical heuristic that aims to ensure cooldown discipline and protect the targeting window, among other things. It is drilled into Cell Halc\u00f3n operations and taught at Lima Academy."
+        },
+        {
+          "question_id": 53,
+          "section_id": 5,
+          "topic_tag": "Doctrine Sequential",
+          "question_text": "According to the Doctrine of Sequential Suspension, what should be treated as a decisive resource?",
+          "options": {
+            "A": "Suspension",
+            "B": "Activation",
+            "C": "Targeting window",
+            "D": "Terminal vector"
+          },
+          "correct_option": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "explanation": "The Doctrine of Sequential Suspension states that suspension is a decisive resource, not a continuous capability, and should be treated as ammunition."
+        },
+        {
+          "question_id": 54,
+          "section_id": 5,
+          "topic_tag": "Tactical Heuristics",
+          "question_text": "Which of the following is a consequence of violating the Three-Two-One Rule?",
+          "options": {
+            "A": "Automatic call-off by the cell handler",
+            "B": "Increased number of active sightlines",
+            "C": "Reduced cooldown discipline",
+            "D": "Improved protection of the targeting window"
+          },
+          "correct_option": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "explanation": "Violations of the Three-Two-One Rule trigger an automatic call-off by the cell handler, as monitored by Lt. Bauer-Cortez via Reset Bracer telemetry."
+        },
+        {
+          "question_id": 55,
+          "section_id": 5,
+          "topic_tag": "Tactical Heuristics",
+          "question_text": "What is the maximum number of active sightlines maintained at any moment according to the Three-Two-One Rule?",
+          "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "Three",
+            "D": "Four"
+          },
+          "correct_option": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "explanation": "The Three-Two-One Rule states that two active sightlines should be maintained at any moment."
+        },
+        {
+          "question_id": 56,
+          "section_id": 8,
+          "topic_tag": "Base Details",
+          "question_text": "What is the total floor area of the primary operational base, Cuartel Valpara\u00edso?",
+          "options": {
+            "A": "3,820 m\u00b2",
+            "B": "4,820 m\u00b2",
+            "C": "5,820 m\u00b2",
+            "D": "6,820 m\u00b2"
+          },
+          "correct_option": "B",
+          "user_answer": "A",
+          "is_correct": false,
+          "explanation": "The total floor area of Cuartel Valpara\u00edso is given as 4,820 m\u00b2 in the section text."
+        },
+        {
+          "question_id": 57,
+          "section_id": 8,
+          "topic_tag": "Operational Safehouses",
+          "question_text": "Which of the following safehouses is used as a religious-order cover?",
+          "options": {
+            "A": "S-1, Punta Arenas",
+            "B": "S-2, Mendoza",
+            "C": "S-3, Iquique",
+            "D": "S-5, Cuzco"
+          },
+          "correct_option": "D",
+          "user_answer": "D",
+          "is_correct": true,
+          "explanation": "The safehouse S-5 in Cuzco is used as a religious-order cover, as stated in the section text."
+        },
+        {
+          "question_id": 58,
+          "section_id": 8,
+          "topic_tag": "Restricted Zones",
+          "question_text": "What is the reason for the restriction on the Cerro Castillo exclusion ring zone?",
+          "options": {
+            "A": "Strategic; ongoing classified PAMC investigation",
+            "B": "Jurisdictional; pending bilateral agreement",
+            "C": "Psychological; CBMP recommendation",
+            "D": "Environmental; protected wildlife area"
+          },
+          "correct_option": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "explanation": "The reason for the restriction on the Cerro Castillo exclusion ring zone is given as psychological; CBMP recommendation, as stated in the section text."
+        },
+        {
+          "question_id": 59,
+          "section_id": 8,
+          "topic_tag": "Operational Territory",
+          "question_text": "Which of the following countries is NOT fully included in the asset's authorized operational territory?",
+          "options": {
+            "A": "Chile",
+            "B": "Bolivia",
+            "C": "Peru",
+            "D": "Ecuador"
+          },
+          "correct_option": "D",
+          "user_answer": "B",
+          "is_correct": false,
+          "explanation": "Ecuador is only partially included in the asset's authorized operational territory, with only the provinces of Azuay, Ca\u00f1ar, and Loja being included."
+        },
+        {
+          "question_id": 60,
+          "section_id": 8,
+          "topic_tag": "Operational Territory",
+          "question_text": "What is the required line-of-comms for cell-led operations within the PAMC Yatiri network?",
+          "options": {
+            "A": "At least 1 node",
+            "B": "At least 2 nodes",
+            "C": "At least 3 nodes",
+            "D": "At least 4 nodes"
+          },
+          "correct_option": "B",
+          "user_answer": "A",
+          "is_correct": false,
+          "explanation": "Each cell-led operation requires line-of-comms to at least 2 nodes, as stated in the section text."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "created_at": "2026-05-26T14:11:15.963842",
+      "section_ids": [
+        3,
+        7
+      ],
+      "is_adaptive": 0,
+      "score": "4/10",
+      "score_pct": 40.0,
+      "questions": [
+        {
+          "question_id": 41,
+          "section_id": 3,
+          "topic_tag": "Early Life",
+          "question_text": "Where was Inez Yolanda Calvache-Renstr\u00f6m born?",
+          "options": {
+            "A": "Hospital Naval de Punta Arenas",
+            "B": "Liceo Manuel de Salas",
+            "C": "Centro de Estudios Geogr\u00e1ficos",
+            "D": "Cerro Castillo"
+          },
+          "correct_option": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "explanation": "Inez Yolanda Calvache-Renstr\u00f6m was born at the Hospital Naval de Punta Arenas, as stated in Section 3.1 of the dossier. This is a straightforward recall question that requires knowledge of her birthplace."
+        },
+        {
+          "question_id": 42,
+          "section_id": 3,
+          "topic_tag": "Powers Emergence",
+          "question_text": "What was the outcome of Calvache-Renstr\u00f6m's first activation of Inertial Suspension during the Cerro Castillo Incident?",
+          "options": {
+            "A": "She fell to her death",
+            "B": "She was able to reorient and reduce her fall trajectory, landing on a snowfield",
+            "C": "She was stuck in an infinite loop of suspension",
+            "D": "She lost her powers forever"
+          },
+          "correct_option": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "explanation": "During the Cerro Castillo Incident, Calvache-Renstr\u00f6m's first activation of Inertial Suspension allowed her to reorient and reduce her fall trajectory, resulting in her landing on a snowfield instead of rock. This question requires application of the details of the incident."
+        },
+        {
+          "question_id": 43,
+          "section_id": 3,
+          "topic_tag": "Education",
+          "question_text": "What was the name of the school where Calvache-Renstr\u00f6m completed her secondary education?",
+          "options": {
+            "A": "Liceo Manuel de Salas",
+            "B": "Escuela Militar Bernardo O'Higgins",
+            "C": "Centro de Estudios Geogr\u00e1ficos",
+            "D": "Regimiento 'Carampangue'"
+          },
+          "correct_option": "A",
+          "user_answer": "C",
+          "is_correct": false,
+          "explanation": "Calvache-Renstr\u00f6m completed her secondary education at the Liceo Manuel de Salas, as stated in Section 3.1 of the dossier. This is another straightforward recall question."
+        },
+        {
+          "question_id": 44,
+          "section_id": 3,
+          "topic_tag": "Probationary Period",
+          "question_text": "What was the result of the unauthorized peer-test attempt to suspend a 320 kg test sled during Calvache-Renstr\u00f6m's probationary period?",
+          "options": {
+            "A": "A successful suspension of the test sled",
+            "B": "The first Echo Lock event and a tightening of training discipline",
+            "C": "A decrease in Calvache-Renstr\u00f6m's powers",
+            "D": "An immediate termination of her contract"
+          },
+          "correct_option": "B",
+          "user_answer": "D",
+          "is_correct": false,
+          "explanation": "The unauthorized peer-test attempt resulted in the first Echo Lock event, leading to a tightening of training discipline and the formalization of the mass ceiling protocol. This question requires application of the details of her probationary period."
+        },
+        {
+          "question_id": 45,
+          "section_id": 3,
+          "topic_tag": "Awards and Recognition",
+          "question_text": "What was the name of the award Calvache-Renstr\u00f6m received for her successful extraction of a stranded civilian climbing party from Volc\u00e1n Tupungato?",
+          "options": {
+            "A": "Espada de Honor de Geograf\u00eda Militar",
+            "B": "Cruz al M\u00e9rito Militar (Tercera Clase)",
+            "C": "Medalla al Valor Militar",
+            "D": "Premio de Servicio Distinguido"
+          },
+          "correct_option": "B",
+          "user_answer": "A",
+          "is_correct": false,
+          "explanation": "Calvache-Renstr\u00f6m received the Cruz al M\u00e9rito Militar (Tercera Clase) for her successful extraction of the stranded civilian climbing party. This question requires recall of specific details about her awards and achievements."
+        },
+        {
+          "question_id": 46,
+          "section_id": 7,
+          "topic_tag": "Threat Tier Classification",
+          "question_text": "According to the NMOC-derived Threat Tier Schedule, what is the power output ceiling for a Tier 1 threat?",
+          "options": {
+            "A": "< 0.5 kJ kinetic equivalent",
+            "B": "0.5-25 kJ",
+            "C": "25-500 kJ",
+            "D": "> 50 MJ"
+          },
+          "correct_option": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "explanation": "The correct answer is A because the Threat Tier Schedule states that Tier 1 threats have a power output ceiling of less than 0.5 kJ kinetic equivalent. This is a straightforward recall question that tests knowledge of the Threat Tier Schedule."
+        },
+        {
+          "question_id": 47,
+          "section_id": 7,
+          "topic_tag": "Adversary Powers",
+          "question_text": "What is the codename of the adversary with the ability to induce controlled bone-density fluctuation in mammalian subjects?",
+          "options": {
+            "A": "Tropopausa",
+            "B": "El Sereno",
+            "C": "Quebrantadero",
+            "D": "Underwriter"
+          },
+          "correct_option": "C",
+          "user_answer": "B",
+          "is_correct": false,
+          "explanation": "The correct answer is C because the text states that Quebrantadero has the ability to induce controlled bone-density fluctuation in mammalian subjects. This is a straightforward recall question that tests knowledge of the adversaries' powers."
+        },
+        {
+          "question_id": 48,
+          "section_id": 7,
+          "topic_tag": "Threat Analysis",
+          "question_text": "What is the primary reason why El Sereno is a significant threat to SLATEFALL?",
+          "options": {
+            "A": "His ability to create powerful blasts of energy",
+            "B": "His ability to fly",
+            "C": "His stealth approaches degrade SLATEFALL's targeting acquisition",
+            "D": "His ability to create force fields"
+          },
+          "correct_option": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "explanation": "The correct answer is C because the text states that El Sereno's stealth approaches degrade SLATEFALL's targeting acquisition, which depends on visual perception. This is an application/detail question that tests understanding of the threats and their implications for SLATEFALL."
+        },
+        {
+          "question_id": 49,
+          "section_id": 7,
+          "topic_tag": "Adversary Limitations",
+          "question_text": "What is the maximum sustained field duration for Tropopausa's atmospheric pressure manipulation power?",
+          "options": {
+            "A": "10 seconds",
+            "B": "18 seconds",
+            "C": "22 seconds",
+            "D": "30 seconds"
+          },
+          "correct_option": "C",
+          "user_answer": "D",
+          "is_correct": false,
+          "explanation": "The correct answer is C because the text states that Tropopausa's maximum sustained field duration is 22 seconds before metabolic collapse. This is an application/detail question that tests knowledge of the adversaries' powers and limitations."
+        },
+        {
+          "question_id": 50,
+          "section_id": 7,
+          "topic_tag": "Classification System",
+          "question_text": "What is the significance of the 'Class A-2 (Targeted)' designation for Tropopausa?",
+          "options": {
+            "A": "It indicates that Tropopausa is a low-priority target",
+            "B": "It indicates that Tropopausa is a high-priority target with a specific scientific classification",
+            "C": "It indicates that Tropopausa has a unique metahuman ability",
+            "D": "It indicates that Tropopausa is a member of a specific organization"
+          },
+          "correct_option": "B",
+          "user_answer": "A",
+          "is_correct": false,
+          "explanation": "The correct answer is B because the text states that Tropopausa is classified as Class A-2 (Targeted), which is the same scientific class as SLATEFALL but on a different operational axis. This is an application/detail question that tests understanding of the classification system and its implications."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "created_at": "2026-05-26T13:51:02.527529",
+      "section_ids": [
+        8
+      ],
+      "is_adaptive": 1,
+      "score": "5/5",
+      "score_pct": 100.0,
+      "questions": [
+        {
+          "question_id": 36,
+          "section_id": 8,
+          "topic_tag": "Base Details",
+          "question_text": "What is the total floor area of the primary operational base, Cuartel Valpara\u00edso?",
+          "options": {
+            "A": "3,820 m\u00b2",
+            "B": "4,820 m\u00b2",
+            "C": "5,820 m\u00b2",
+            "D": "6,820 m\u00b2"
+          },
+          "correct_option": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "explanation": "The total floor area of Cuartel Valpara\u00edso is given as 4,820 m\u00b2 in the section text. This is a key detail about the primary base."
+        },
+        {
+          "question_id": 37,
+          "section_id": 8,
+          "topic_tag": "Operational Safehouses",
+          "question_text": "Which of the following safehouses is NOT formally maintained by the asset?",
+          "options": {
+            "A": "S-1 in Punta Arenas",
+            "B": "S-2 in Mendoza",
+            "C": "S-3 in Iquique",
+            "D": "A safehouse in Santiago"
+          },
+          "correct_option": "D",
+          "user_answer": "D",
+          "is_correct": true,
+          "explanation": "The section text lists five formally maintained safehouses, and Santiago is not among them. This requires the ability to identify which option does not fit the given criteria."
+        },
+        {
+          "question_id": 38,
+          "section_id": 8,
+          "topic_tag": "Operational Territory",
+          "question_text": "What is the authorization requirement for the asset to operate beyond their authorized territory?",
+          "options": {
+            "A": "Cell leader's approval",
+            "B": "Director-General authorization",
+            "C": "Local law enforcement clearance",
+            "D": "No authorization required"
+          },
+          "correct_option": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "explanation": "The section text states that the asset operates only under Director-General authorization beyond their authorized territory. This is a crucial aspect of operational territory management."
+        },
+        {
+          "question_id": 39,
+          "section_id": 8,
+          "topic_tag": "Restricted Zones",
+          "question_text": "Which zone is restricted due to psychological reasons, as per CBMP recommendation?",
+          "options": {
+            "A": "Salar de Uyuni Sector 4",
+            "B": "Cerro Castillo exclusion ring",
+            "C": "Easter Island",
+            "D": "Arica Zone"
+          },
+          "correct_option": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "explanation": "The Cerro Castillo exclusion ring is restricted due to psychological reasons, following a CBMP recommendation since 2020. This demonstrates an understanding of restricted zones."
+        },
+        {
+          "question_id": 40,
+          "section_id": 8,
+          "topic_tag": "Operational Territory",
+          "question_text": "What is the primary purpose of the micro-cache network maintained by the asset?",
+          "options": {
+            "A": "To store sensitive documents",
+            "B": "To provide emergency supplies and communications",
+            "C": "To serve as temporary safehouses",
+            "D": "To monitor local law enforcement activities"
+          },
+          "correct_option": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "explanation": "The micro-cache network is designed to provide the asset with emergency supplies, including food, medical kits, and communications equipment, in case of operational needs. This requires inference from the details about the micro-cache contents and purpose."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "created_at": "2026-05-26T13:50:58.124365",
+      "section_ids": [
+        6,
+        8,
+        9
+      ],
+      "is_adaptive": 1,
+      "score": "8/15",
+      "score_pct": 53.3,
+      "questions": [
+        {
+          "question_id": 21,
+          "section_id": 6,
+          "topic_tag": "Organizational Structure",
+          "question_text": "What is the name of the parent organization of SLATEFALL, founded on 22 May 2014?",
+          "options": {
+            "A": "Pan-American Metahuman Cooperative (PAMC)",
+            "B": "South American Metahuman Alliance (SAMA)",
+            "C": "Western Hemisphere Metahuman Organization (WHMO)",
+            "D": "Latin American Metahuman Cooperative (LAMC)"
+          },
+          "correct_option": "A",
+          "user_answer": "B",
+          "is_correct": false,
+          "explanation": "The correct answer is A, as stated in Section 6.1 of the dossier, the parent organization of SLATEFALL is indeed the Pan-American Metahuman Cooperative (PAMC)."
+        },
+        {
+          "question_id": 22,
+          "section_id": 6,
+          "topic_tag": "Metahuman Classifications",
+          "question_text": "What is the metahuman classification of Lt. Sol\u00e8ne Bauer-Cortez?",
+          "options": {
+            "A": "Class A-1",
+            "B": "Class A-2",
+            "C": "Class C-1 (Electromagnetic Sensing)",
+            "D": "Class C-2"
+          },
+          "correct_option": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "explanation": "The correct answer is C, as stated in Section 6.3, Lt. Sol\u00e8ne Bauer-Cortez has a metahuman classification of Class C-1, which allows her to perceive electromagnetic emissions."
+        },
+        {
+          "question_id": 23,
+          "section_id": 6,
+          "topic_tag": "Chain of Command",
+          "question_text": "What is the name of the director who is the asset's direct chain-of-command superior since 2022?",
+          "options": {
+            "A": "Director A\u00edda Salvatierra-Bunge",
+            "B": "Director-General Mar\u00eda-Elena Esp\u00f3sito-Tagle",
+            "C": "Director L\u00e9on Marr\u00f3n-Saavedra",
+            "D": "Director Maite Borghi-Castelnuovo"
+          },
+          "correct_option": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "explanation": "The correct answer is A, as stated in Section 6.4, Director A\u00edda Salvatierra-Bunge is the asset's direct chain-of-command superior since 2022."
+        },
+        {
+          "question_id": 24,
+          "section_id": 6,
+          "topic_tag": "Metahuman Power Evaluation",
+          "question_text": "What is the purpose of the annual scientific re-evaluations conducted by Dr. L\u00e9on Marr\u00f3n-Saavedra?",
+          "options": {
+            "A": "To assess the asset's mental health",
+            "B": "To evaluate the asset's metahuman power",
+            "C": "To review the asset's operational performance",
+            "D": "To provide training to the asset"
+          },
+          "correct_option": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "explanation": "The correct answer is B, as stated in Section 6.4, Dr. L\u00e9on Marr\u00f3n-Saavedra conducts annual scientific re-evaluations of the asset's power."
+        },
+        {
+          "question_id": 25,
+          "section_id": 6,
+          "topic_tag": "Civilian Allies",
+          "question_text": "What is the name of the civilian intelligence asset who operates a small import-export consultancy as cover in La Paz?",
+          "options": {
+            "A": "Comandante Ezequiel Ovalle-Garrido",
+            "B": "Dr. Catalina Renstr\u00f6m-Verdugo",
+            "C": "Hermana Asunta Mendieta",
+            "D": "Pajarera / Tessa Roehl"
+          },
+          "correct_option": "D",
+          "user_answer": "B",
+          "is_correct": false,
+          "explanation": "The correct answer is D, as stated in Section 6.5, Pajarera / Tessa Roehl is the civilian intelligence asset who operates a small import-export consultancy as cover in La Paz."
+        },
+        {
+          "question_id": 26,
+          "section_id": 8,
+          "topic_tag": "Base Details",
+          "question_text": "What is the total floor area of the primary operational base, Cuartel Valpara\u00edso?",
+          "options": {
+            "A": "3,820 m\u00b2",
+            "B": "4,820 m\u00b2",
+            "C": "5,820 m\u00b2",
+            "D": "6,820 m\u00b2"
+          },
+          "correct_option": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "explanation": "The total floor area of Cuartel Valpara\u00edso is given as 4,820 m\u00b2 in the section text."
+        },
+        {
+          "question_id": 27,
+          "section_id": 8,
+          "topic_tag": "Operational Safehouses",
+          "question_text": "Which of the following safehouses is NOT formally maintained by the asset?",
+          "options": {
+            "A": "S-1 in Punta Arenas",
+            "B": "S-2 in Mendoza",
+            "C": "S-6 in Santiago",
+            "D": "S-5 in Cuzco"
+          },
+          "correct_option": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "explanation": "The section text only mentions safehouses S-1 to S-5, with no mention of S-6."
+        },
+        {
+          "question_id": 28,
+          "section_id": 8,
+          "topic_tag": "Restricted Zones",
+          "question_text": "What is the reason for the restriction on the Cerro Castillo exclusion ring zone?",
+          "options": {
+            "A": "Jurisdictional reasons",
+            "B": "Strategic investigation",
+            "C": "Psychological recommendation",
+            "D": "Environmental concerns"
+          },
+          "correct_option": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "explanation": "The section text states that the Cerro Castillo exclusion ring zone is restricted for psychological reasons, following a CBMP recommendation since 2020."
+        },
+        {
+          "question_id": 29,
+          "section_id": 8,
+          "topic_tag": "Operational Territory",
+          "question_text": "What is the authorization requirement for the asset to operate beyond their authorized operational territory?",
+          "options": {
+            "A": "Cell leader approval",
+            "B": "Director-General authorization",
+            "C": "PAMC council consensus",
+            "D": "Self-authorization"
+          },
+          "correct_option": "B",
+          "user_answer": "C",
+          "is_correct": false,
+          "explanation": "The section text states that the asset operates only under Director-General authorization beyond their authorized operational territory."
+        },
+        {
+          "question_id": 30,
+          "section_id": 8,
+          "topic_tag": "Operational Safehouses",
+          "question_text": "Which of the following is NOT a type of safehouse maintained by the asset?",
+          "options": {
+            "A": "Coastal residential cover",
+            "B": "Urban apartment",
+            "C": "Maritime port district",
+            "D": "Rural farmstead"
+          },
+          "correct_option": "D",
+          "user_answer": "C",
+          "is_correct": false,
+          "explanation": "The section text mentions coastal residential cover, urban apartment, maritime port district, industrial cover, and religious-order cover, but does not mention rural farmstead."
+        },
+        {
+          "question_id": 31,
+          "section_id": 9,
+          "topic_tag": "Case File Format",
+          "question_text": "What is the format for recording case numbers in the PAMC format?",
+          "options": {
+            "A": "Year-Sequence",
+            "B": "Sequence-Year",
+            "C": "Location-Date",
+            "D": "Date-Location"
+          },
+          "correct_option": "A",
+          "user_answer": "D",
+          "is_correct": false,
+          "explanation": "The correct format is Year-Sequence as mentioned in Section 9.1 of the SLATEFALL operational dossier."
+        },
+        {
+          "question_id": 32,
+          "section_id": 9,
+          "topic_tag": "Case Details",
+          "question_text": "In which year was the case 2019-0017: Probationary Assessment (Atacama) conducted?",
+          "options": {
+            "A": "2018",
+            "B": "2019",
+            "C": "2020",
+            "D": "2021"
+          },
+          "correct_option": "B",
+          "user_answer": "D",
+          "is_correct": false,
+          "explanation": "The case 2019-0017 was conducted in the year 2019, as indicated by the case number and the date mentioned in Section 9.2."
+        },
+        {
+          "question_id": 33,
+          "section_id": 9,
+          "topic_tag": "Case Outcomes",
+          "question_text": "What was the outcome of the case 2022-0123: Tropopausa First Engagement (Mendoza)?",
+          "options": {
+            "A": "Successful",
+            "B": "Pyrrhic",
+            "C": "Inconclusive",
+            "D": "Catastrophic"
+          },
+          "correct_option": "B",
+          "user_answer": "D",
+          "is_correct": false,
+          "explanation": "The outcome of the case 2022-0123 was Pyrrhic, as mentioned in Section 9.4, indicating that the engagement was partially successful but with significant costs or losses."
+        },
+        {
+          "question_id": 34,
+          "section_id": 9,
+          "topic_tag": "Operational Casualties",
+          "question_text": "What was the result of the Quebrantadero Showdown (Salta) in terms of PAMC operative casualties?",
+          "options": {
+            "A": "1 operative KIA",
+            "B": "2 operatives wounded",
+            "C": "0 operative casualties",
+            "D": "All operatives escaped"
+          },
+          "correct_option": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "explanation": "According to Section 9.7, there were 0 operative casualties among PAMC personnel during the Quebrantadero Showdown, despite it being classified as a Catastrophic outcome due to civilian casualties."
+        },
+        {
+          "question_id": 35,
+          "section_id": 9,
+          "topic_tag": "Drift Read Ability",
+          "question_text": "What was the significance of the case 2021-0091: Atacama Altiplano in terms of the Drift Read ability?",
+          "options": {
+            "A": "It was the first operation where Drift Read was used to capture an adversary",
+            "B": "It was the first operationally validated deployment of the Drift Read ability",
+            "C": "It was the first time Drift Read was used in a training exercise",
+            "D": "It was the first operation where Drift Read failed to detect incoming threats"
+          },
+          "correct_option": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "explanation": "The case 2021-0091 was significant because it marked the first operationally validated deployment of the Drift Read ability, as mentioned in Section 9.9.5, where the asset detected and interdicted incoming small-arms rounds."
+        }
+      ]
+    }
+  ]
+}

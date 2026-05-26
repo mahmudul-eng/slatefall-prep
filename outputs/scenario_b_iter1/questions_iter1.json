@@ -1,0 +1,184 @@
+{
+  "session_summary": {
+    "session_id": 7,
+    "section_ids": [
+      5,
+      8
+    ],
+    "is_adaptive": true,
+    "score": "6/10",
+    "score_pct": 60.0
+  },
+  "questions": [
+    {
+      "section_id": 5,
+      "topic_tag": "Tactical Heuristics",
+      "question_text": "What is the primary purpose of the Three-Two-One Rule in the asset's tactical heuristics?",
+      "options": {
+        "A": "To maximize the number of activations per minute",
+        "B": "To minimize the risk of operational anomalies",
+        "C": "To ensure the asset's safety during combat operations",
+        "D": "To optimize the use of suspension as a decisive resource"
+      },
+      "correct_option": "D",
+      "correct_text": "To optimize the use of suspension as a decisive resource",
+      "user_answer": "D",
+      "user_answer_text": "To optimize the use of suspension as a decisive resource",
+      "is_correct": true,
+      "explanation": "The Three-Two-One Rule is a tactical heuristic that aims to optimize the use of suspension as a decisive resource, by limiting the number of activations and maintaining active sightlines and pre-anchored extraction routes."
+    },
+    {
+      "section_id": 5,
+      "topic_tag": "Doctrine Sequential",
+      "question_text": "Which of the following is NOT a core principle of the Doctrine of Sequential Suspension?",
+      "options": {
+        "A": "Suspension is a decisive resource, not a continuous capability",
+        "B": "Sequence determines lethality",
+        "C": "Cooldown discipline is non-negotiable",
+        "D": "The asset should always engage the target with maximum force"
+      },
+      "correct_option": "D",
+      "correct_text": "The asset should always engage the target with maximum force",
+      "user_answer": "A",
+      "user_answer_text": "Suspension is a decisive resource, not a continuous capability",
+      "is_correct": false,
+      "explanation": "The Doctrine of Sequential Suspension emphasizes the importance of suspension as a decisive resource, sequence determining lethality, and cooldown discipline, but it does not advocate for always engaging the target with maximum force."
+    },
+    {
+      "section_id": 5,
+      "topic_tag": "Drop Tune Maneuver",
+      "question_text": "What is the minimum time required for the contact-exclusion field to clear after releasing an object, according to the Drop-Tune Maneuver?",
+      "options": {
+        "A": "0.1 seconds",
+        "B": "0.3 seconds",
+        "C": "0.5 seconds",
+        "D": "1 second"
+      },
+      "correct_option": "B",
+      "correct_text": "0.3 seconds",
+      "user_answer": "B",
+      "user_answer_text": "0.3 seconds",
+      "is_correct": true,
+      "explanation": "The Drop-Tune Maneuver specifies that the contact-exclusion field clears after approximately 0.3 seconds, allowing the asset to suspend the released object before it strikes anything."
+    },
+    {
+      "section_id": 5,
+      "topic_tag": "Suspended Field",
+      "question_text": "What is the maximum number of low-mass objects that can be held simultaneously using the Suspended Field Technique?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correct_option": "C",
+      "correct_text": "4",
+      "user_answer": "C",
+      "user_answer_text": "4",
+      "is_correct": true,
+      "explanation": "The Suspended Field Technique allows the asset to hold a maximum of 4 low-mass objects simultaneously, creating a transient kinetic-cover zone."
+    },
+    {
+      "section_id": 5,
+      "topic_tag": "Tactical Heuristics",
+      "question_text": "Which of the following is a consequence of violating the Three-Two-One Rule?",
+      "options": {
+        "A": "The asset is required to restart the engagement",
+        "B": "The cell handler will automatically call off the operation",
+        "C": "The asset will be subject to additional training",
+        "D": "The asset will receive a warning from the PAMC"
+      },
+      "correct_option": "B",
+      "correct_text": "The cell handler will automatically call off the operation",
+      "user_answer": "B",
+      "user_answer_text": "The cell handler will automatically call off the operation",
+      "is_correct": true,
+      "explanation": "Violations of the Three-Two-One Rule trigger an automatic call-off by the cell handler, ensuring the asset's safety and the success of the operation."
+    },
+    {
+      "section_id": 8,
+      "topic_tag": "Base Details",
+      "question_text": "What is the total floor area of the primary operational base, Cuartel Valpara\u00edso?",
+      "options": {
+        "A": "3,820 m\u00b2",
+        "B": "4,820 m\u00b2",
+        "C": "5,820 m\u00b2",
+        "D": "6,820 m\u00b2"
+      },
+      "correct_option": "B",
+      "correct_text": "4,820 m\u00b2",
+      "user_answer": "A",
+      "user_answer_text": "3,820 m\u00b2",
+      "is_correct": false,
+      "explanation": "The total floor area of Cuartel Valpara\u00edso is given as 4,820 m\u00b2 in the section text."
+    },
+    {
+      "section_id": 8,
+      "topic_tag": "Operational Territory",
+      "question_text": "Which of the following countries is NOT fully included in the asset's authorized operational territory?",
+      "options": {
+        "A": "Chile",
+        "B": "Bolivia",
+        "C": "Peru",
+        "D": "Ecuador"
+      },
+      "correct_option": "D",
+      "correct_text": "Ecuador",
+      "user_answer": "D",
+      "user_answer_text": "Ecuador",
+      "is_correct": true,
+      "explanation": "Ecuador is only partially included in the asset's operational territory, with limited access to provinces of Azuay, Ca\u00f1ar, and Loja."
+    },
+    {
+      "section_id": 8,
+      "topic_tag": "Operational Safehouses",
+      "question_text": "What is the purpose of the standardized provisioning standard for each safehouse?",
+      "options": {
+        "A": "To provide luxury accommodations for the asset",
+        "B": "To maintain a standardized level of supplies and equipment for operational purposes",
+        "C": "To provide a means of communication with other safehouses",
+        "D": "To serve as a backup cache for the micro-cache network"
+      },
+      "correct_option": "B",
+      "correct_text": "To maintain a standardized level of supplies and equipment for operational purposes",
+      "user_answer": "B",
+      "user_answer_text": "To maintain a standardized level of supplies and equipment for operational purposes",
+      "is_correct": true,
+      "explanation": "The standardized provisioning standard is intended to ensure that each safehouse has a consistent level of supplies and equipment to support the asset's operations."
+    },
+    {
+      "section_id": 8,
+      "topic_tag": "Restricted Zones",
+      "question_text": "What is the reason for the restriction on the Cerro Castillo exclusion ring zone?",
+      "options": {
+        "A": "Jurisdictional dispute",
+        "B": "Strategic investigation",
+        "C": "Psychological recommendation by CBMP",
+        "D": "Environmental concerns"
+      },
+      "correct_option": "C",
+      "correct_text": "Psychological recommendation by CBMP",
+      "user_answer": "B",
+      "user_answer_text": "Strategic investigation",
+      "is_correct": false,
+      "explanation": "The Cerro Castillo exclusion ring zone is restricted due to a psychological recommendation by CBMP, following the 2018 incident."
+    },
+    {
+      "section_id": 8,
+      "topic_tag": "Operational Safehouses",
+      "question_text": "Which of the following safehouses is located in a port district and has a maritime cover?",
+      "options": {
+        "A": "S-1, Punta Arenas",
+        "B": "S-2, Mendoza",
+        "C": "S-3, Iquique",
+        "D": "S-4, Antofagasta"
+      },
+      "correct_option": "C",
+      "correct_text": "S-3, Iquique",
+      "user_answer": "A",
+      "user_answer_text": "S-1, Punta Arenas",
+      "is_correct": false,
+      "explanation": "S-3, located in Iquique, is described as having a maritime cover and being situated in a port district."
+    }
+  ]
+}

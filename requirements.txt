@@ -1,0 +1,5 @@
+PyMuPDF>=1.24.5
+groq==1.2.0
+python-dotenv==1.0.1
+rich==15.0.0
+typer==0.25.1

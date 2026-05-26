@@ -1,0 +1,270 @@
+{
+  "session_summary": {
+    "session_id": 8,
+    "section_ids": [
+      6,
+      8,
+      9
+    ],
+    "is_adaptive": true,
+    "score": "8/15",
+    "score_pct": 53.3
+  },
+  "questions": [
+    {
+      "section_id": 6,
+      "topic_tag": "Civilian Allies",
+      "question_text": "What is the primary role of Dr. Catalina Renstr\u00f6m-Verdugo in relation to the asset?",
+      "options": {
+        "A": "Civilian Liaison",
+        "B": "Pediatric Oncologist and occasional consultant",
+        "C": "Cell Halc\u00f3n Member",
+        "D": "PAMC Director"
+      },
+      "correct_option": "B",
+      "correct_text": "Pediatric Oncologist and occasional consultant",
+      "user_answer": "A",
+      "user_answer_text": "Civilian Liaison",
+      "is_correct": false,
+      "explanation": "Dr. Catalina Renstr\u00f6m-Verdugo is a pediatric oncologist and provides occasional consultation on pediatric-related civilian rescue operations."
+    },
+    {
+      "section_id": 6,
+      "topic_tag": "Organizational Structure",
+      "question_text": "Which of the following is NOT a directorate of the Pan-American Metahuman Cooperative?",
+      "options": {
+        "A": "Operations",
+        "B": "Behavioral Health",
+        "C": "Logistics",
+        "D": "Finance"
+      },
+      "correct_option": "D",
+      "correct_text": "Finance",
+      "user_answer": "D",
+      "user_answer_text": "Finance",
+      "is_correct": true,
+      "explanation": "The Pan-American Metahuman Cooperative operates four directorates: Operations, Behavioral Health, Logistics, and the Cooperative Bureau of Metahuman Physics."
+    },
+    {
+      "section_id": 6,
+      "topic_tag": "Organizational Structure",
+      "question_text": "What is the name of the parent organization of SLATEFALL, founded on 22 May 2014?",
+      "options": {
+        "A": "PAMC",
+        "B": "Chilean Army",
+        "C": "Argentine Federal Intelligence",
+        "D": "CBMP"
+      },
+      "correct_option": "A",
+      "correct_text": "PAMC",
+      "user_answer": "A",
+      "user_answer_text": "PAMC",
+      "is_correct": true,
+      "explanation": "The parent organization of SLATEFALL is the Pan-American Metahuman Cooperative (PAMC), founded on 22 May 2014."
+    },
+    {
+      "section_id": 6,
+      "topic_tag": "Civilian Allies",
+      "question_text": "Which civilian ally operates a small import-export consultancy as cover in La Paz?",
+      "options": {
+        "A": "Hermana Asunta Mendieta",
+        "B": "Comandante Ezequiel Ovalle-Garrido",
+        "C": "Dr. Catalina Renstr\u00f6m-Verdugo",
+        "D": "Pajarera / Tessa Roehl"
+      },
+      "correct_option": "D",
+      "correct_text": "Pajarera / Tessa Roehl",
+      "user_answer": "D",
+      "user_answer_text": "Pajarera / Tessa Roehl",
+      "is_correct": true,
+      "explanation": "Pajarera / Tessa Roehl is a civilian intelligence asset who operates a small import-export consultancy as cover in La Paz."
+    },
+    {
+      "section_id": 6,
+      "topic_tag": "Senior PAMC Allies",
+      "question_text": "What is the name of the senior psychologist who is the asset's continuing mental-health practitioner since 2020?",
+      "options": {
+        "A": "Dr. L\u00e9on Marr\u00f3n-Saavedra",
+        "B": "Dr. Maite Borghi-Castelnuovo",
+        "C": "A\u00edda Salvatierra-Bunge",
+        "D": "Mar\u00eda-Elena Esp\u00f3sito-Tagle"
+      },
+      "correct_option": "B",
+      "correct_text": "Dr. Maite Borghi-Castelnuovo",
+      "user_answer": "C",
+      "user_answer_text": "A\u00edda Salvatierra-Bunge",
+      "is_correct": false,
+      "explanation": "Dr. Maite Borghi-Castelnuovo is the senior psychologist who is the asset's continuing mental-health practitioner since 2020."
+    },
+    {
+      "section_id": 8,
+      "topic_tag": "Base Details",
+      "question_text": "What is the total floor area of the primary operational base, Cuartel Valpara\u00edso?",
+      "options": {
+        "A": "3,820 m\u00b2",
+        "B": "4,820 m\u00b2",
+        "C": "5,820 m\u00b2",
+        "D": "6,820 m\u00b2"
+      },
+      "correct_option": "B",
+      "correct_text": "4,820 m\u00b2",
+      "user_answer": "B",
+      "user_answer_text": "4,820 m\u00b2",
+      "is_correct": true,
+      "explanation": "The total floor area of Cuartel Valpara\u00edso is given as 4,820 m\u00b2 in the section text."
+    },
+    {
+      "section_id": 8,
+      "topic_tag": "Operational Territory",
+      "question_text": "Which of the following countries is NOT fully included in the asset's authorized operational territory?",
+      "options": {
+        "A": "Chile",
+        "B": "Bolivia",
+        "C": "Peru",
+        "D": "Ecuador and Paraguay partially, but also some parts of Argentina are excluded"
+      },
+      "correct_option": "D",
+      "correct_text": "Ecuador and Paraguay partially, but also some parts of Argentina are excluded",
+      "user_answer": "D",
+      "user_answer_text": "Ecuador and Paraguay partially, but also some parts of Argentina are excluded",
+      "is_correct": true,
+      "explanation": "The asset's operational territory includes all of Chile, Bolivia, and parts of Peru, Argentina, and Ecuador, but not all of these countries."
+    },
+    {
+      "section_id": 8,
+      "topic_tag": "Operational Safehouses",
+      "question_text": "Which safehouse is located in a port district and has a maritime cover?",
+      "options": {
+        "A": "S-1, Punta Arenas",
+        "B": "S-2, Mendoza",
+        "C": "S-3, Iquique",
+        "D": "S-4, Antofagasta"
+      },
+      "correct_option": "C",
+      "correct_text": "S-3, Iquique",
+      "user_answer": "C",
+      "user_answer_text": "S-3, Iquique",
+      "is_correct": true,
+      "explanation": "The safehouse S-3 is located in Iquique, Tarapac\u00e1, and has a maritime cover in a port district."
+    },
+    {
+      "section_id": 8,
+      "topic_tag": "Restricted Zones",
+      "question_text": "What is the reason for the restriction on the Cerro Castillo exclusion ring zone?",
+      "options": {
+        "A": "Strategic; ongoing classified PAMC investigation",
+        "B": "Jurisdictional; pending bilateral agreement",
+        "C": "Psychological; CBMP recommendation",
+        "D": "Environmental; protected nature reserve"
+      },
+      "correct_option": "C",
+      "correct_text": "Psychological; CBMP recommendation",
+      "user_answer": "B",
+      "user_answer_text": "Jurisdictional; pending bilateral agreement",
+      "is_correct": false,
+      "explanation": "The Cerro Castillo exclusion ring zone is restricted due to psychological reasons, based on a CBMP recommendation since 2020."
+    },
+    {
+      "section_id": 8,
+      "topic_tag": "Operational Safehouses",
+      "question_text": "Which of the following is NOT a type of cover used by the asset's safehouses?",
+      "options": {
+        "A": "Residential cover",
+        "B": "Industrial cover",
+        "C": "Religious-order cover",
+        "D": "Diplomatic cover"
+      },
+      "correct_option": "D",
+      "correct_text": "Diplomatic cover",
+      "user_answer": "C",
+      "user_answer_text": "Religious-order cover",
+      "is_correct": false,
+      "explanation": "The types of covers used by the asset's safehouses include residential, industrial, and religious-order, but not diplomatic."
+    },
+    {
+      "section_id": 9,
+      "topic_tag": "Case Details",
+      "question_text": "In which year was the case 2019-0017: Probationary Assessment (Atacama) conducted?",
+      "options": {
+        "A": "2018",
+        "B": "2019",
+        "C": "2020",
+        "D": "2021"
+      },
+      "correct_option": "B",
+      "correct_text": "2019",
+      "user_answer": "D",
+      "user_answer_text": "2021",
+      "is_correct": false,
+      "explanation": "The case 2019-0017: Probationary Assessment (Atacama) was conducted in 2019, as stated in the case details."
+    },
+    {
+      "section_id": 9,
+      "topic_tag": "Case File Format",
+      "question_text": "What is the format for recording case numbers in the PAMC format?",
+      "options": {
+        "A": "Year-Location-Sequence",
+        "B": "Sequence-Year-Location",
+        "C": "Year-Sequence",
+        "D": "Location-Year-Sequence"
+      },
+      "correct_option": "C",
+      "correct_text": "Year-Sequence",
+      "user_answer": "D",
+      "user_answer_text": "Location-Year-Sequence",
+      "is_correct": false,
+      "explanation": "The PAMC format records case numbers as Year-Sequence, as seen in the case file format section."
+    },
+    {
+      "section_id": 9,
+      "topic_tag": "Case Outcomes",
+      "question_text": "Which of the following cases had an outcome of Pyrrhic?",
+      "options": {
+        "A": "2020-0048: Antofagasta Containment",
+        "B": "2022-0123: Tropopausa First Engagement (Mendoza)",
+        "C": "2024-0034: Tarapac\u00e1 Concession Raid",
+        "D": "2025-0019: Audiencia Counter-Audit (Lima)"
+      },
+      "correct_option": "B",
+      "correct_text": "2022-0123: Tropopausa First Engagement (Mendoza)",
+      "user_answer": "D",
+      "user_answer_text": "2025-0019: Audiencia Counter-Audit (Lima)",
+      "is_correct": false,
+      "explanation": "The case 2022-0123: Tropopausa First Engagement (Mendoza) had an outcome of Pyrrhic, as stated in the case details."
+    },
+    {
+      "section_id": 9,
+      "topic_tag": "Case Details",
+      "question_text": "What was the result of the case 2024-0034: Tarapac\u00e1 Concession Raid in terms of Concession affiliates captured?",
+      "options": {
+        "A": "5 captured",
+        "B": "10 captured",
+        "C": "14 captured",
+        "D": "20 captured"
+      },
+      "correct_option": "C",
+      "correct_text": "14 captured",
+      "user_answer": "C",
+      "user_answer_text": "14 captured",
+      "is_correct": true,
+      "explanation": "The case 2024-0034: Tarapac\u00e1 Concession Raid resulted in 14 Concession affiliates captured, as stated in the case details."
+    },
+    {
+      "section_id": 9,
+      "topic_tag": "Case File Format",
+      "question_text": "Which of the following is NOT a type of casualty recorded in the PAMC case file format?",
+      "options": {
+        "A": "Operative",
+        "B": "Civilian",
+        "C": "Adversary",
+        "D": "Environmental"
+      },
+      "correct_option": "D",
+      "correct_text": "Environmental",
+      "user_answer": "D",
+      "user_answer_text": "Environmental",
+      "is_correct": true,
+      "explanation": "The PAMC case file format records operative, civilian, and adversary casualties, but does not specifically record environmental casualties."
+    }
+  ]
+}

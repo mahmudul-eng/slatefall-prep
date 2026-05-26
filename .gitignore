@@ -1,0 +1,5 @@
+.env
+kb.sqlite
+__pycache__/
+*.pyc
+data/

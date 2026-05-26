@@ -1,0 +1,98 @@
+{
+  "session_summary": {
+    "session_id": 9,
+    "section_ids": [
+      8
+    ],
+    "is_adaptive": true,
+    "score": "5/5",
+    "score_pct": 100.0
+  },
+  "questions": [
+    {
+      "section_id": 8,
+      "topic_tag": "Restricted Zones",
+      "question_text": "What is the primary purpose of the restricted Cerro Castillo exclusion ring zone?",
+      "options": {
+        "A": "Jurisdictional dispute",
+        "B": "Strategic investigation",
+        "C": "Psychological recommendation",
+        "D": "Tactical training area"
+      },
+      "correct_option": "C",
+      "correct_text": "Psychological recommendation",
+      "user_answer": "C",
+      "user_answer_text": "Psychological recommendation",
+      "is_correct": true,
+      "explanation": "The Cerro Castillo exclusion ring zone is restricted due to psychological reasons, as recommended by CBMP since 2020."
+    },
+    {
+      "section_id": 8,
+      "topic_tag": "Operational Safehouses",
+      "question_text": "Which of the following safehouses is located in a port district and has a maritime cover?",
+      "options": {
+        "A": "S-1, Punta Arenas",
+        "B": "S-2, Mendoza",
+        "C": "S-3, Iquique",
+        "D": "S-4, Antofagasta"
+      },
+      "correct_option": "C",
+      "correct_text": "S-3, Iquique",
+      "user_answer": "C",
+      "user_answer_text": "S-3, Iquique",
+      "is_correct": true,
+      "explanation": "S-3 safehouse is located in Iquique, Tarapac\u00e1, and has a maritime cover, as it is situated in a port district."
+    },
+    {
+      "section_id": 8,
+      "topic_tag": "Base Details",
+      "question_text": "What is the total floor area of the primary operational base, Cuartel Valpara\u00edso?",
+      "options": {
+        "A": "3,820 m\u00b2",
+        "B": "4,220 m\u00b2",
+        "C": "4,820 m\u00b2",
+        "D": "5,820 m\u00b2"
+      },
+      "correct_option": "C",
+      "correct_text": "4,820 m\u00b2",
+      "user_answer": "C",
+      "user_answer_text": "4,820 m\u00b2",
+      "is_correct": true,
+      "explanation": "The total floor area of Cuartel Valpara\u00edso is 4,820 m\u00b2, as specified in the base's parameters."
+    },
+    {
+      "section_id": 8,
+      "topic_tag": "Operational Territory",
+      "question_text": "Which of the following countries is NOT fully included in the asset's authorized operational territory?",
+      "options": {
+        "A": "Chile",
+        "B": "Bolivia",
+        "C": "Peru",
+        "D": "Ecuador"
+      },
+      "correct_option": "D",
+      "correct_text": "Ecuador",
+      "user_answer": "D",
+      "user_answer_text": "Ecuador",
+      "is_correct": true,
+      "explanation": "Ecuador is not fully included in the asset's authorized operational territory, as only the provinces of Azuay, Ca\u00f1ar, and Loja are included."
+    },
+    {
+      "section_id": 8,
+      "topic_tag": "Restricted Zones",
+      "question_text": "What is the reason for the restriction on the Salar de Uyuni Sector 4 zone?",
+      "options": {
+        "A": "Psychological recommendation",
+        "B": "Jurisdictional dispute",
+        "C": "Strategic investigation",
+        "D": "Tactical training area"
+      },
+      "correct_option": "C",
+      "correct_text": "Strategic investigation",
+      "user_answer": "C",
+      "user_answer_text": "Strategic investigation",
+      "is_correct": true,
+      "explanation": "The Salar de Uyuni Sector 4 zone is restricted due to an ongoing classified PAMC investigation since 2023."
+    }
+  ]
+}
