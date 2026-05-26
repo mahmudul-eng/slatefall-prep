@@ -22,7 +22,7 @@ The core adaptive intelligence: on any return run over a previously studied sect
 
 ```bash
 # 1. Clone the repo
-git clone <your-repo-url>
+git clone https://github.com/mahmudul-eng/slatefall-prep
 cd slatefall-prep
 
 # 2. Install dependencies
